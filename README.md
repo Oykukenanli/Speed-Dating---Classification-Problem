@@ -1,4 +1,4 @@
-# Speed-Dating---Classification-Problem
+# Speed-Dating / A Classification Problem
 
 ## Description
 
